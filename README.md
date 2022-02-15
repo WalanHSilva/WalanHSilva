@@ -4,7 +4,7 @@ Oi! Eu sou o Walan Silva
 - 📚 Estudando HTML, CSS e JS.
 - 💬 Sobre mim: Gosto de musica, toco violão e teclado, Amo desenhar e adoro jogar online com meus amigos e estou sempre disposto a aprender coisas novas.
 
-!-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+!-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hi, I'm Walan Silva
 
